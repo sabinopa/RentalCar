@@ -17,17 +17,4 @@ Neste projeto, utilizei o SQLite como sistema de gerenciamento de banco de dados
 ### Aprendizado
 O objetivo principal é consolidar o conhecimento adquirido durante o curso e expandir meu domínio em manipulação de dados através do SQL. Este projeto é uma etapa inicial em uma jornada de aprendizado contínuo na área de bancos de dados e SQL.
 
-### Como executar o projeto
-Para executar esse projeto, você deve instalar a linguagem SQLite 3.32.3 em seu computador. 
-
-#### Em seguida, siga os passos abaixo:
-
-Clone este repositório ´git clone https://github.com/sabinopa/RentalCar
-´
-
-Abra o diretório pelo terminal
-
-´sqlite3 dbRentalCar.db´
-
-´.open /PATH´
 
